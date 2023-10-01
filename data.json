@@ -1,0 +1,8 @@
+[
+    {
+        "plate_number": "ABC123",
+        "entry_time": "2023-09-30 09:00:00",
+        "exit_time": "2023-09-30 10:30:00",
+        "duration" : 1
+    }
+]
